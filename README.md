@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anubhav Maurya</h1>
 <h3 align="center">AI Data Engineer 🚀 | Transforming Data into Solutions 📊 | Cloud Enthusiast ☁️</h3>
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 <div align="center">
   <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/EU-code-week_GIF.gif" width="400" alt="Coding GIF">
